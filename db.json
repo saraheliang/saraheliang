@@ -1,0 +1,126 @@
+{
+  "posts": [
+    {
+      "userId": "1",
+      "title": "My fav matcha store 🍵",
+      "description": "Ceremonial grade matcha! So rich! :)",
+      "body": "I LOVE THIS CAFE! Seating is amazing and the quality of the matcha is truly elite. I'd go here on a date or to study.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "title": "How to Train Your Dragon",
+      "description": "Best heart-warming movie.",
+      "body": "THIS MOVIE DESERVES EVERYTHING AND MORE. It is musically, visually, and narrative-wise unlike any other animated movie."
+    },
+    {
+      "userId": "1",
+      "title": "Hunger Games: Ballad of Songbird and Snakes",
+      "description": "Awesome movie!",
+      "body": "It has a good soundtrack, super complex topics, and amazing acting! 100000/10",
+      "id": "hkagWy7"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Sarah Liang"
+    },
+    {
+      "id": "2",
+      "name": "Michelle Liang"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "userId": "2",
+      "userName": "Michelle Liang",
+      "body": "Super helpful, thanks!",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "userName": "Michelle Liang",
+      "body": "Wow, didn't know about this place!",
+      "postId": "1"
+    },
+    {
+      "id": "3",
+      "userName": "Michelle Liang",
+      "body": "Love this movie!!",
+      "postId": "2"
+    },
+    {
+      "userName": "Michelle Liang",
+      "body": "Awesome!",
+      "postId": "1",
+      "id": "SVyu2fI"
+    },
+    {
+      "userName": "Sarah Liang",
+      "body": "dis knee",
+      "postId": "1",
+      "id": "9BaBv8c"
+    },
+    {
+      "userName": "Michelle Liang",
+      "body": "dat knee :(",
+      "postId": "1",
+      "id": "Zl_ef1S"
+    },
+    {
+      "userName": "random person :D",
+      "body": "i luv matcha",
+      "postId": "1",
+      "id": "puC700z"
+    },
+    {
+      "userName": "another rando",
+      "body": "i also love matcha",
+      "postId": "1",
+      "id": "-fcDvD0"
+    },
+    {
+      "userName": "Sarah",
+      "body": "I also liked this movie!",
+      "postId": "hkagWy7",
+      "id": "rGxt_ER"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "userId": "1",
+      "title": "Personal Portfolio",
+      "description": "ReactJS, JavaScript, JSON Server, Bootstrap",
+      "body": "My most recent work : ). Built December 2023",
+      "imageName": "portfolioImage"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "title": "Sticker Goals",
+      "description": "React Native, JavaScript, Expo Go, Firebase",
+      "body": "I worked on this from September 2022 - May 2023",
+      "imageName": "stickerImage"
+    },
+    {
+      "id": "3",
+      "userId": "1",
+      "title": "Small Wins",
+      "description": "JavaScript, HTML/CSS, PHP, MySQL",
+      "body": "I made this as a final project for ITP 303.",
+      "imageName": "smallWinsImage"
+    },
+    {
+      "id": "4",
+      "userId": "1",
+      "title": "SPOTlight",
+      "description": "JavaScript, HTML/CSS, Spotify AP",
+      "body": "A hackathon project winner for 'Best Use of Curriculum'",
+      "imageName": "spotlightImage"
+    }
+  ]
+}
